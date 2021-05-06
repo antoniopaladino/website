@@ -1,0 +1,26 @@
+<html>
+  
+  <head>
+    <title>
+      Antonio Paladino website
+    </title>
+  </head>
+  
+  <body>
+    <h1>This is my website</h1>
+    <h3>Questo è il <b>primo</b> contenuto del sito</h3>
+      <p>Un secondo paragrafo</p>
+    <br>
+      <p>Un terzo paragrafo preceduto da uno spazio e seguito da una linea</p>
+    <hr>
+      <p>Questo, invece, è un elenco non ordinato</p>
+    <p><a href="https://www.primodance.it">aaa</a></p>
+    <p><a href="pagina1.html">pagina1</a></p>
+    <ul>
+      <li>aaa</li>
+      <li>bbb</li>
+      <li>ccc</li>
+    </ul>
+  </body>
+  
+</html>
