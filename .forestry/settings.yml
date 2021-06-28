@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: aaa
+  label: aaa
+  match: "**/*"
 - type: heading
   label: Categoria
 - type: document
