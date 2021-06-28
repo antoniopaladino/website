@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: aaa
+  path: aaa.md
   label: aaa
 - type: heading
   label: Categoria
