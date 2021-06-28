@@ -1,7 +1,0 @@
----
-label: Pagina
-hide_body: false
-fields:
-- name: luce
-  type: boolean
-  label: Luce
