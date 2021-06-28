@@ -1,4 +1,7 @@
 ---
 label: Pagina
 hide_body: true
-fields: []
+fields:
+- name: luce
+  type: boolean
+  label: Luce
