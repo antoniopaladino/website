@@ -5,5 +5,10 @@ fields:
 - name: luce
   type: boolean
   label: Luce
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+  description: fs sdf sdf gdfgfd dh gdf hfgh
 pages:
 - index.html
