@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: immagini
+  path: articoli
   label: Articoli
   create: all
   match: "**/*"
