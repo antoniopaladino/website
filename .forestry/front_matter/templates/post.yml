@@ -11,6 +11,5 @@ fields:
   label: Tags
   description: fs sdf sdf gdfgfd dh gdf hfgh
 pages:
-- immagini/articolo1.md
-- index.html
+- articoli/1.md
 - index.html
