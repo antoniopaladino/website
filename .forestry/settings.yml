@@ -5,7 +5,7 @@ admin_path:
 webhook_url: 
 sections:
 - type: heading
-  label: '1'
+  label: Categoria
 - type: document
   path: index.html
   label: home
