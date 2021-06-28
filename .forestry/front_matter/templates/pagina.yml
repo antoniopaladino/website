@@ -1,6 +1,6 @@
 ---
 label: Pagina
-hide_body: true
+hide_body: false
 fields:
 - name: luce
   type: boolean
