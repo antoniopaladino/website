@@ -5,3 +5,5 @@ fields:
 - name: luce
   type: boolean
   label: Luce
+pages:
+- index.html
