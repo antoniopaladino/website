@@ -1,4 +1,7 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: luce
+  type: boolean
+  label: Luce
