@@ -7,7 +7,6 @@ sections:
 - type: document
   path: aaa
   label: aaa
-  match: "**/*"
 - type: heading
   label: Categoria
 - type: document
